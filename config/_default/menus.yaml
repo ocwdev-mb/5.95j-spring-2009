@@ -1,0 +1,25 @@
+leftnav:
+- identifier: ba090722-0661-9b08-9574-d25bbee792cc
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ce7a9a5b-d604-3e17-effc-00518e715888
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 309b4cff-90a0-211d-e5c0-ab1a34340d3e
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: f697ce3e-6cf8-177b-0cbd-1510a0728bfc
+  name: Video Discussions
+  pageRef: /video_galleries/video-discussions
+  weight: 40
+- identifier: 8577bc93-83b0-863f-794d-25d009ad0f8f
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: bcd1a233-6e9e-d484-0d53-5e2a420220a9
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 60
